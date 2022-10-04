@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787345786466",
+    "project_id": "agri-ware",
+    "storage_bucket": "agri-ware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787345786466:android:c005096622109e9b59b33b",
+        "android_client_info": {
+          "package_name": "com.example.agri_ware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787345786466-eg7ts9gs2jvbc43ekbis3p19rr148edb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt6-1dMa9ISAUVyuod_kfOAX9ruH9WY-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787345786466-eg7ts9gs2jvbc43ekbis3p19rr148edb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
